@@ -1,0 +1,5 @@
+# Use direnv(1). Copy this file → .envrc, edit, run direnv allow
+export UPSTASH_KAFKA_BROKER=some-cluster.upstash.io:9092
+export UPSTASH_KAFKA_SCHEMA_REGISTRY=https://some-registry.upstash.io/schema-registry
+export UPSTASH_KAFKA_USERNAME=
+export UPSTASH_KAFKA_PASSWORD=
